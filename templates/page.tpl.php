@@ -213,7 +213,7 @@
                 <div id="credits">
                 <?php print(date('Y') . ' ');?>
                 <?php if (!empty($site_name)):?>
-                <?php print $site_name;?>- This is a Free Drupal Theme<br/>
+                <?php print $site_name;?><br/>
                 <?php endif;?>
                 </div>
           </div>
