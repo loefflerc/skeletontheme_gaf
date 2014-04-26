@@ -1,0 +1,23 @@
+body { color:#fff; }
+
+a:link, a:visited,
+#navigation ul li a, #navigation ul.sf-menu li a { color:#a2c301; }
+
+a:hover, a:active, a:focus { color:#f0f0f0; padding-bottom: 5px; } /* fix chromium bug */
+
+h1, h2, h3, h4, h5, h6 { color:#a2c301; }
+
+#header #site-name a { color:#fff; }
+
+#header #site-name a:hover { color: #4e630e; }
+
+#header #site-slogan { color: #a2c301; }
+
+body { border-color:#375199; }
+
+/* #wrap { border-color:#4565be; } */
+
+#footer {  background-color: #a2c301; }
+
+#footer { border-color:transparent; }
+
