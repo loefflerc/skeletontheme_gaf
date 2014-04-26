@@ -91,7 +91,7 @@
     Just create a "fonts" folder at the root,
     copy your FontName into code below and remove
     comment brackets */
-
+/*
 @font-face {
     font-family: 'jurademibold';
     src: url('../fonts/jura-demibold-webfont.eot');
@@ -119,7 +119,7 @@
 
 }
 
-/*  @font-face {
+  @font-face {
       font-family: 'FontName';
       src: url('../fonts/FontName.eot');
       src: url('../fonts/FontName.eot?iefix') format('eot'),
