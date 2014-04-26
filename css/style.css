@@ -53,7 +53,9 @@ img, img.scale-with-grid { outline: 0; max-width: 100%; height: auto; }
 
 /* Fonts */
 
-body,input, textarea, select, a.button, fieldset legend { font-family: "jurademibold", "PT Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+body,input, textarea, select, a.button, fieldset legend { font-family: "PT Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+/*
+body,input, textarea, select, a.button, fieldset legend { font-family: "eurostile-demidemi", "PT Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; }*/
 
 /* Downloads - Documentation */
 
